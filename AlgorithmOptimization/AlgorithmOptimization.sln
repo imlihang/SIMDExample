@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoSum", "DoSum\DoSum.vcxproj", "{8637D0A7-BA11-46A9-9900-60945FBD8ADE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBToYUV", "RGBToYUV\RGBToYUV.vcxproj", "{1CBFBB4F-DA1B-4C2F-A8B1-7923C40FA33F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{8637D0A7-BA11-46A9-9900-60945FBD8ADE}.Debug|Win32.Build.0 = Debug|Win32
 		{8637D0A7-BA11-46A9-9900-60945FBD8ADE}.Release|Win32.ActiveCfg = Release|Win32
 		{8637D0A7-BA11-46A9-9900-60945FBD8ADE}.Release|Win32.Build.0 = Release|Win32
+		{1CBFBB4F-DA1B-4C2F-A8B1-7923C40FA33F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CBFBB4F-DA1B-4C2F-A8B1-7923C40FA33F}.Debug|Win32.Build.0 = Debug|Win32
+		{1CBFBB4F-DA1B-4C2F-A8B1-7923C40FA33F}.Release|Win32.ActiveCfg = Release|Win32
+		{1CBFBB4F-DA1B-4C2F-A8B1-7923C40FA33F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
